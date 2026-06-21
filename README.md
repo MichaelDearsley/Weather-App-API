@@ -1,2 +1,2 @@
-# Beginner-JavaScript-Projects
-This repository includes some of the projects I made following tutorials.
+# Weather-App-API
+This repository includes a weather app API I made following a tutorial.
